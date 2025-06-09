@@ -1,4 +1,8 @@
-# **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
+# python inference.py \
+  --checkpoint_path Wav2Lip.pth \
+  --face file-Pqu2N7Lab5imtFogu4Mke4 \
+  --audio extracted_audio.mp3 \
+  --outfile lipsynced_output.mp4**Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
 ### A commercial version of Wav2Lip can be directly accessed at https://sync.so
 Are you looking to integrate this into a product? We have a turn-key hosted API with new and improved lip-syncing models here: https://sync.so/
 For any other commercial / enterprise requests, please contact us at pavan@sync.so and prady@sync.so
